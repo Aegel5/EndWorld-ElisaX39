@@ -1,0 +1,19 @@
+**.opensdf
+**.sdf
+**.aps
+**.vcxproj.user
+**.suo
+**.VC.db
+**.VC.opendb
+**/*Release/*
+**/*Debug/*
+**/ipch/*
+**/SimpleSwitcher/zip/*
+**/.vs
+**/packages/*
+**/logs/*
+**/Assets/Standard Assets/*
+**/Assets/SampleScenes/* 
+**/Library/*
+**/Temp/*
+**.meta
