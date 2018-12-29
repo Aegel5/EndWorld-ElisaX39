@@ -78,6 +78,8 @@
     <Compile Include="Assets\AllStarCharacterLibrary\Scripts\RootMotionOff.cs" />
     <Compile Include="Assets\AllStarCharacterLibray\Scripts\Outfitter.cs" />
     <Compile Include="Assets\AllStarCharacterLibray\Scripts\SkinnedMeshCombiner.cs" />
+    <Compile Include="Assets\book_cookbook\10_02\BasicController.cs" />
+    <Compile Include="Assets\CursorsAndCrosshairs\CursorChanger.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
@@ -86,6 +88,9 @@
     <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
+    <Compile Include="Assets\scripts\AI_Unit.cs" />
+    <Compile Include="Assets\scripts\Ammo.cs" />
+    <Compile Include="Assets\scripts\BulletSpawner.cs" />
     <Compile Include="Assets\scripts\from_book\AI_Enemy.cs" />
     <Compile Include="Assets\scripts\from_book\FollowDestination.cs" />
     <Compile Include="Assets\scripts\from_book\Health.cs" />
@@ -142,8 +147,23 @@
     <Compile Include="Assets\scripts\Generator1\Tile.cs" />
     <Compile Include="Assets\scripts\Generator2\TerrainGenerator.cs" />
     <Compile Include="Assets\scripts\PauseGame.cs" />
+    <Compile Include="Assets\scripts\PlayerScript.cs" />
+    <Compile Include="Assets\scripts\skeletcontroller.cs" />
+    <Compile Include="Assets\scripts\Spawner.cs" />
+    <Compile Include="Assets\scripts\TeamWarior.cs" />
+    <Compile Include="Assets\scripts\tools\KdTree.cs" />
+    <Compile Include="Assets\SimpleSkeletonFree\Script\Character\PlayerController.cs" />
+    <Compile Include="Assets\SMC Pack 1\Demo\DemoAssets\V_SMC_Camera.cs" />
+    <Compile Include="Assets\SMC Pack 1\Demo\DemoAssets\V_SMC_Handler.cs" />
+    <Compile Include="Assets\SMC Pack 1\Demo\DemoAssets\V_Text.cs" />
+    <Compile Include="Assets\Yurowm\Demo\Scripts\Actions.cs" />
+    <Compile Include="Assets\Yurowm\Demo\Scripts\CharacterPanel.cs" />
+    <Compile Include="Assets\Yurowm\Demo\Scripts\CharacterViewer.cs" />
+    <Compile Include="Assets\Yurowm\Demo\Scripts\PlayerController.cs" />
     <None Include="Assets\Movinarc\PackageUninstaller\README.txt" />
     <None Include="Assets\RainEntertainment\FantasyMonster\FireDemon\readMe.txt" />
+    <None Include="Assets\Yurowm\Shaders\SkinShader.shader" />
+    <None Include="Assets\SkeletonData\animations.txt" />
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/projects/unity/EndWorld-ElisaX39/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>

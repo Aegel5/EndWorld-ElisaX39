@@ -43,6 +43,8 @@ public class AI_Enemy : MonoBehaviour
 
     public float MaxDamage = 10f;
 
+
+
     Transform PatrolDestination = null;
     //------------------------------------------
     void Awake()
